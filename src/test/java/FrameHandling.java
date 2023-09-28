@@ -43,8 +43,8 @@ public class FrameHandling {
         String mainwebPageElement = driver.findElement(By.xpath("//a[@href='#Multiple']")).getText();
         System.out.println(mainwebPageElement);
         System.out.println("Here added a new line");
-        int a = 10.5;
-
+        double a = 10.5;
+    //12345678901234567
 
     }
 }
